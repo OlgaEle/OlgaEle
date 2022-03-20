@@ -25,9 +25,3 @@
 <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ![Olga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olgaele&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgaele&layout=compact)](https://github.com/olgaele/github-readme-stats)
-
-
-
-
