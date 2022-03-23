@@ -25,7 +25,6 @@
 <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ![Olga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olgaele&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgaele&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Check out some of my articles:</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/1" alt="Recent Article 1">
