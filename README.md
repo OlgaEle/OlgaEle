@@ -26,6 +26,8 @@
 
 ![Olga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olgaele&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olgaele&hide=jupyter%20notebook&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Check out some of my articles:</h3>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/0" alt="Recent Article 0">
  
