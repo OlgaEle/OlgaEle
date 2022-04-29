@@ -35,6 +35,6 @@
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/2" alt="Recent Article 2">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/3" alt="Recent Article 3">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/4" alt="Recent Article 4">
  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/5" alt="Recent Article 5">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/6" alt="Recent Article 6">
