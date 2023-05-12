@@ -1,8 +1,8 @@
 <h1 align="center">🧁Welcome🧁</h1>
 <h3 align="center">I'm Olga Eleftherakou, a delighted "baby" statistician, data scientist</h3>
 
-- 🍭 Data Science Analyst at Accenture Greece
-- 🎓 Postgraduate student in Applied Statistics 
+- 🍭 Data Scientist at Accenture Greece
+- 🎓 BSc in Statistics and Insurance Science & MSc in Applied Statistics (Biostatistics and Data Science) 
 - 🌱 Currently learning **Julia programming language by myself**
 
 - ✏️ Writing articles on [https://medium.com/@o.eleftherakou](https://medium.com/@o.eleftherakou)
