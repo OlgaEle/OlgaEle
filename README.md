@@ -3,7 +3,7 @@
 <h1 align="center">🧁Welcome🧁</h1>
 <h3 align="center">I'm Olga Eleftherakou, a delighted statistician, data scientist</h3>
 
-- 🍭 Data Scientist at Accenture Greece
+- 🍭 Data Scientist at PwC Greece
 - 🎓 BSc in Statistics and Insurance Science & MSc in Applied Statistics (Biostatistics and Data Science) 
 - ✏️ Writing articles on [https://medium.com/@o.eleftherakou](https://medium.com/@o.eleftherakou)
 - 🧠 Fav quote **"Statistical thinking will one day be as necessary for efficient citizenship as the ability to read and write."**
