@@ -3,7 +3,7 @@
 <h1 align="center">$whoami</h1>
 <h3 align="center">I'm Olga Eleftherakou</h3>
 
-- 💻 Data Scientist at PwC Greece
+- 💻 Data Scientist
 - ✏️ Writing articles on [Medium](https://medium.com/@o.eleftherakou) and [LinkedIn](https://www.linkedin.com/in/olga-eleftherakou/recent-activity/articles/)
 - 🧠 Fav quote **"Statistical thinking will one day be as necessary for efficient citizenship as the ability to read and write."**
 
