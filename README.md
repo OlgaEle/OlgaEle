@@ -39,3 +39,7 @@
 `Statistics, Statistical Analysis, Statistical Modeling` </p>
 `Machine Learning, TensorFlow, Scikit-learn, PyTorch, Python, R, Julia, SQL` </p>
 `Linux / Kali Linux, Bash Scripting` </p>
+
+<p align="center">
+  <img src="assets/my_octocat.png" alt="My Octocat" width="500"/>
+</p>
