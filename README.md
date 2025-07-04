@@ -20,6 +20,9 @@
 | **Kaggle** | [Click](https://www.kaggle.com/olgaeleftherakou)  |
 | **Email**     | [Send](mailto:o.eleftherakou@gmail.com) |
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" alt="Demo GIF" />
+</p>
 
 ## 📖 Check out some of my articles:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/0" alt="Recent Article 0">
