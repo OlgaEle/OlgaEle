@@ -1,6 +1,9 @@
-[![Github](https://img.shields.io/github/followers/OlgaEle?label=Follow&style=social)](https://github.com/OlgaEle)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=9A10CF&width=500&height=60&lines=%24whoami&center=True" alt="Typing SVG" />
+  </a>
+</p>
 
-<h1 align="center">$whoami</h1>
 <h3 align="center">I'm Olga Eleftherakou</h3>
 
 - 💻 Data Scientist
