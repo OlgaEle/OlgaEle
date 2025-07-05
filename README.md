@@ -26,14 +26,10 @@
 
 ## 📖 Check out some of my articles:
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/0" alt="Recent Article 0">
- 
+
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/1" alt="Recent Article 1">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/3" alt="Recent Article 3">
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/4" alt="Recent Article 4">
- 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/7" alt="Recent Article 7">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OlgaEle&bg_color=31183f&color=ecddf4&line=a66cd5&point=e3b4e9&area=true&hide_border=true&days=15&custom_title=My%20Contributions%20-%20Last%2015%20days)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
