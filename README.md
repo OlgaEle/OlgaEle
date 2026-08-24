@@ -4,8 +4,9 @@
   </a>
 </p>
 
-- 💻 Data Scientist
-- ✏️ Writing articles on [Medium](https://medium.com/@o.eleftherakou) and [LinkedIn](https://www.linkedin.com/in/olga-eleftherakou/recent-activity/articles/)
+- 💻 Data Scientist / Data Analyst
+- ✏️ Articles on [Medium](https://medium.com/@o.eleftherakou) and [LinkedIn](https://www.linkedin.com/in/olga-eleftherakou/recent-activity/articles/)
+- 🔎 Volunteering: [Zooniverse](https://www.zooniverse.org/)
 - 🧠 Fav quote **"Statistical thinking will one day be as necessary for efficient citizenship as the ability to read and write."**
 
 ## 🎓 Education
@@ -31,11 +32,6 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/9"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/9" alt="Recent Article 9">
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@o.eleftherakou/3" alt="Recent Article 3">
-
-## 🛠 Honing skills...
-`Statistics, Statistical Analysis, Statistical Modeling` </p>
-`Machine Learning, TensorFlow, Scikit-learn, PyTorch, Python, R, Julia, SQL` </p>
-`Linux / Kali Linux, Bash Scripting` </p>
 
 <p align="center">
   <img src="assets/my_octocat.png" alt="My Octocat" width="500"/>
